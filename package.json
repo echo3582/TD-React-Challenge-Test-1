@@ -2,7 +2,7 @@
   "name": "jv",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://seunzone.github.io/TD-React-Challenge-Test-1",
+  "homepage": "http://www.qianqianx.com/TD-React-Challenge-Test-1/",
   "dependencies": {
     "bootstrap": "3",
     "gh-pages": "^2.0.1",
